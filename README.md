@@ -4,7 +4,7 @@
 
 👤 &nbsp; **Laurent FACENTE**
 
-* LinkedIn: [@Laurent Facente](https://www.linkedin.com/in/aubinguillaume/ "Visitez mon profil LinkedIn")
+* LinkedIn: [@Laurent Facente](https://www.linkedin.com/in/laurentFacente/ "Visitez mon profil LinkedIn")
 
 ***
 ## 📎 Projet 5 - Construisez un site e-commerce avec JavaScript "Kanap"
