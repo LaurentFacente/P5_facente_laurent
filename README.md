@@ -1,3 +1,32 @@
+# ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/Logo_OpenClassrooms.png?raw=true) OpenClassrooms - Développeur Web - Site e-commerce en JavaScript
+
+## Auteur
+
+👤 &nbsp; **Laurent FACENTE**
+
+* LinkedIn: [@Laurent Facente](https://www.linkedin.com/in/aubinguillaume/ "Visitez mon profil LinkedIn")
+
+***
+## 📎 Projet 5 - Construisez un site e-commerce avec JavaScript "Kanap"
+
+#### 🔨 Construire un site Web e-commerce en Javascript
+
+* Manipulation du DOM
+* Gestion du local storage
+* Ecoutes et gestion d'évenements
+
+##### Compétences évaluées
+
+* Gérer des événements JavaScript
+* Valider des données issues de sources externes
+* Créer un plan de test pour une application
+* Interagir avec un web service avec JavaScript
+
+***
+
+
+### Pour déployer le projet
+
 # Kanap #
 
 This is the front end and back end server for Project 5 of the Web Developer path.
